@@ -1,0 +1,2 @@
+Error:
+E6: FSA is nondeterministic
